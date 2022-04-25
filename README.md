@@ -1,4 +1,4 @@
-![info](https://github-readme-stats.vercel.app/api?username=uahh&show_icons=true&theme=radical&hide=prs,contribs)
+![info](https://github-readme-stats.vercel.app/api?username=uahh&show_icons=true&theme=radical)
 
 ![Uahh's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=Uahh&show_icons=true&count_private=true&theme=gotham&layout=compact)
 
