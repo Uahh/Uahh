@@ -2,6 +2,13 @@
 
 ![Uahh's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=Uahh&show_icons=true&count_private=true&theme=gotham&layout=compact)
 
+<h3>Some Photo</h3>  
+Welcome to my [picture bed](https://500px.com.cn/uahh)
+
+![numazu](jpg/numazu.jpg)
+![city](jpg/city.jpg)
+
+
 <!--
 **Uahh/Uahh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
