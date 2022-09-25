@@ -1,5 +1,5 @@
 Hi, I'm Uahh.  
-Like to write code, take pictures, play games and watch anime.  
+Like to write code, take photos, play games and watch anime.  
 
 Currently watching: Cyberpunk: Edgerunners.  
 Currently playing: Cyberpunk 2077.  
