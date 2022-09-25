@@ -1,9 +1,15 @@
-![info](https://github-readme-stats.vercel.app/api?username=uahh&show_icons=true&theme=radical&count_private=true)
+Hi, I'm Uahh.  
+Like to write code, take pictures, play games and watch anime.  
 
-![Uahh's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=Uahh&show_icons=true&count_private=true&theme=gotham&layout=compact)
+Currently watching: Cyberpunk: Edgerunners.  
+Currently playing: Cyberpunk 2077.  
 
-<h3>Some Photo</h3>  
-Welcome to my [picture bed](https://500px.com.cn/uahh)
+![info](https://github-readme-stats.vercel.app/api?username=uahh&show_icons=true&theme=radical&count_private=true)  
+![Uahh's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=Uahh&show_icons=true&count_private=true&theme=gotham&layout=compact)  
+
+<h3>Some Photos</h3>  
+
+Welcome to my [picture bed](https://500px.com.cn/uahh).
 
 ![numazu](jpg/numazu.jpg)
 ![city](jpg/city.jpg)
