@@ -4,7 +4,7 @@ Like to write code, take photos, play games and watch anime.
 Currently watching: Cyberpunk: Edgerunners.  
 Currently playing: Cyberpunk 2077.  
 
-![info](https://github-readme-stats.vercel.app/api?username=uahh&show_icons=true&theme=radical&count_private=true)  
+![info](https://github-readme-stats.vercel.app/api?username=uahh&show_icons=true&theme=gotham&count_private=true)  
 ![Uahh's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=Uahh&show_icons=true&count_private=true&theme=gotham&layout=compact)  
 
 <h3>Some Photos</h3>  
