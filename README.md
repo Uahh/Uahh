@@ -10,7 +10,7 @@ Currently playing: Returnal.
 
 <h3>Some Photos</h3>  
 
-Welcome to my [picture bed](https://500px.com.cn/uahh).
+<!-- Welcome to my [picture bed](https://500px.com.cn/uahh). -->
 
 ![numazu](jpg/numazu.jpg)
 ![city](jpg/city.jpg)
