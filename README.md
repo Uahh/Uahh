@@ -10,13 +10,13 @@ Currently playing: God of War Ragnarok.
   
 ![info](https://github-readme-stats.vercel.app/api?username=uahh&show_icons=true&theme=gotham&count_private=true)  
 
-<h3>Some Photos</h3>  
+<!-- <h3>Some Photos</h3>   -->
 
 <!-- Welcome to my [picture bed](https://500px.com.cn/uahh). -->
 
-![numazu](jpg/numazu.jpg)
+<!-- ![numazu](jpg/numazu.jpg)
 ![city](jpg/city.jpg)
-
+ -->
 
 <!--
 **Uahh/Uahh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
