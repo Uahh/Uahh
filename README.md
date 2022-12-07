@@ -3,8 +3,8 @@ Hi, I'm Uahh.
 Like to write code, take photos, play games and watch anime.  
 -->
 
-Currently watching: Bocchi the Rock! .   
-Currently playing: God of War Ragnarok.  
+Currently watching: Bocchi the Rock! | Chainsaw Man | Mobile Suit Gundam: THE WITCH FROM MERCURY
+Currently playing: God of War Ragnarok | CS:GO
 
 ![Uahh's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=Uahh&show_icons=true&count_private=true&theme=gotham&layout=compact)  
   
