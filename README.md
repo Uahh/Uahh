@@ -4,7 +4,7 @@ Like to write code, take photos, play games and watch anime.
 -->
 
 #### Currently watching:
-&ensp;&ensp; Bocchi the Rock! | Chainsaw Man | Mobile Suit Gundam: THE WITCH FROM MERCURY  
+&ensp;&ensp; Bocchi the Rock! | BanG Dream It's MyGO!!!!
 #### Currently playing:
 &ensp;&ensp; Pokemonshowdown.com | CS:GO  
 
