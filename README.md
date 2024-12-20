@@ -2,6 +2,7 @@
 Hi, I'm Uahh.  
 Like to write code, take photos, play games and watch anime.  
 -->
+<a href="https://trendshift.io/repositories/129" target="_blank"><img src="https://trendshift.io/api/badge/repositories/129" alt="Uahh%2FToastFish | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
 #### Currently watching:
 &ensp;&ensp; Bocchi the Rock! | BanG Dream It's MyGO!!!!
